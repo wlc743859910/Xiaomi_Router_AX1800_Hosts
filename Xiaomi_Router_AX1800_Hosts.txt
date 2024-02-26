@@ -1,4 +1,4 @@
-# Xiaomi_Router_R1D_Hosts Start
+# Xiaomi_Router_AX1800_Hosts Start
 
 ----- ----- ----- ----- -----
 
@@ -162,6 +162,6 @@
 
 ----- ----- ----- ----- -----
 
-# Update url: https://raw.github.ink/wlc743859910/Xiaomi_Router_R1D_Hosts/master/Xiaomi_Router_R1D_Hosts.txt
-# Star me: https://github.com/wlc743859910/Xiaomi_Router_R1D_Hosts
-# Xiaomi_Router_R1D_Hosts.txt End
+# Update url: https://raw.github.ink/wlc743859910/Xiaomi_Router_AX1800_Hosts/master/Xiaomi_Router_AX1800_Hosts.txt
+# Star me: https://github.com/wlc743859910/Xiaomi_Router_AX1800_Hosts
+# Xiaomi_Router_AX1800_Hosts.txt End
